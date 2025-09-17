@@ -44,3 +44,5 @@
 </p>
 
 ---
+
+![Snake animation](https://raw.githubusercontent.com/OfMuriloSM/OfMuriloSM/output/github-contribution-grid-snake-dark.svg)
