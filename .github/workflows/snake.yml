@@ -1,0 +1,79 @@
+name: Generate Snake
+
+on:
+  schedule: # Executa automaticamente a cada 12h
+    - cron: "0 */12 * * *"
+  workflow_dispatch: # Permite rodar manualmente pelo GitHub Actions
+
+permissions:
+  contents: write # Permite push para a branch output
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # 1️⃣ Checkout do repositório com credenciais para push
+      - name: Checkout repo content
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: true
+
+      # 2️⃣ Garantir que a branch 'output' exista
+      - name: Ensure output branch exists
+        run: |
+          git fetch origin output || git checkout --orphan output
+          git checkout -B output
+
+      # 3️⃣ Ler tamanho atual e level
+      - name: Get current snake size and level
+        id: snake
+        run: |
+          mkdir -p dist
+
+          # Tamanho da cobra
+          if [ -f dist/.snake_size ]; then
+            SIZE=$(cat dist/.snake_size)
+          else
+            SIZE=3
+          fi
+          NEW_SIZE=$((SIZE + 1))
+          echo $NEW_SIZE > dist/.snake_size
+
+          # Level atual
+          if [ -f dist/.snake_level ]; then
+            LEVEL=$(cat dist/.snake_level)
+          else
+            LEVEL=1
+          fi
+
+          # Incrementa level a cada múltiplo de 10
+          if [ $((NEW_SIZE % 10)) -eq 0 ]; then
+            LEVEL=$((LEVEL + 1))
+            LEVEL_UP=true
+          else
+            LEVEL_UP=false
+          fi
+          echo $LEVEL > dist/.snake_level
+
+          echo "snake_size=$NEW_SIZE" >> $GITHUB_OUTPUT
+          echo "snake_level=$LEVEL" >> $GITHUB_OUTPUT
+          echo "level_up=$LEVEL_UP" >> $GITHUB_OUTPUT
+
+      # 4️⃣ Gerar a animação do Snake (cor muda se for level up)
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: OfMuriloSM
+          outputs: |
+            dist/github-contribution-grid-snake.svg?palette=${{ steps.snake.outputs.level_up == 'true' && 'github' || 'github-dark' }}
+
+      # 5️⃣ Commit e push
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "Update Snake animation - size ${{ steps.snake.outputs.snake_size }}, level ${{ steps.snake.outputs.snake_level }}"
+          keep_files: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
