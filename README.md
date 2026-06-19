@@ -1,21 +1,20 @@
-<h1 align="center">Olá, eu sou o Murilo! 👋</h1>
+<h1 align="center">Olá, eu sou o Murilo!</h1>
 
 <p align="center">
   Técnico em Informática e estudante de Análise e Desenvolvimento de Sistemas no IFCE — Campus Canindé,
-  onde atuo como vice-líder do laboratório LAMPI.
-  Desenvolvo software full-stack, experimento com IA aplicada e pesquiso visão computacional,
-  além de construir meus próprios projetos de forma independente sob a marca <b>Krieger Corp</b>.
+  onde atuo como pesquisador no laboratório LAMPI.
+  Desenvolvo software e sites, experimentos com IA aplicada e pesquiso visão computacional,
+  além de construir meus próprios projetos de forma independente.
 </p>
 
 ---
 
 ## 🔭 Em que estou trabalhando agora
 
-- 🏍️ **Scuere** — sistema de gestão para concessionária de motos (JavaFX + SQLite)
-- 🛠️ **Soefit** — <!-- descreva aqui o que o Soefit faz -->
 - 🎙️ **Satomi** — assistente de voz local com IA (Qwen 2.5 + Whisper + OpenCV), meu laboratório pessoal de IA
-- 🔬 Pesquisa em **Multi-Object Tracking** (ByteTrack, DeepSORT, OC-SORT) no MOT17
-- 🎮 **Dungeon Realm** — idle clicker RPG para Roblox, sob o grupo Project Blue Beam
+- 🌸 **Hikari** — fork do Satomi voltado para estabilidade, pensado como produto futuro
+- 🔬 Rastreamento de objetos e visão computacional (YOLO, Multi-Object Tracking e outras técnicas relacionadas)
+- 🌱 **Hanako** — ainda em fase de ideia, usando esse rastreamento de imagem como base
 
 ---
 
