@@ -133,17 +133,17 @@ My work combines software engineering with experimental research, from multi-obj
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=OfMuriloSM&amp;bg_color=09090B&amp;color=E4E4E7&amp;line=A1A1AA&amp;point=E4E4E7&amp;custom_title=Contribution%20Activity&amp;hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=OfMuriloSM&amp;bg_color=FAFAFA&amp;color=171717&amp;line=555555&amp;point=171717&amp;custom_title=Contribution%20Activity&amp;hide_border=true">
-    <img alt="GitHub contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=OfMuriloSM&amp;bg_color=09090B&amp;color=E4E4E7&amp;line=A1A1AA&amp;point=E4E4E7&amp;custom_title=Contribution%20Activity&amp;hide_border=true" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=OfMuriloSM&amp;bg_color=09090B&amp;color=E4E4E7&amp;line=A1A1AA&amp;point=E4E4E7&amp;custom_title=Contribution%20Activity&amp;hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=OfMuriloSM&amp;bg_color=FAFAFA&amp;color=171717&amp;line=555555&amp;point=171717&amp;custom_title=Contribution%20Activity&amp;hide_border=true">
+    <img alt="GitHub contribution activity graph" src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=OfMuriloSM&amp;bg_color=09090B&amp;color=E4E4E7&amp;line=A1A1AA&amp;point=E4E4E7&amp;custom_title=Contribution%20Activity&amp;hide_border=true" width="100%">
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=OfMuriloSM&amp;theme=onedark&amp;no-bg=true&amp;no-frame=true&amp;column=5&amp;margin-w=8">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=OfMuriloSM&amp;theme=flat&amp;no-bg=true&amp;no-frame=true&amp;column=5&amp;margin-w=8">
-    <img alt="GitHub profile trophies" src="https://github-profile-trophy.vercel.app/?username=OfMuriloSM&amp;theme=onedark&amp;no-bg=true&amp;no-frame=true&amp;column=5&amp;margin-w=8" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-kannan.vercel.app/?username=OfMuriloSM&amp;theme=onedark&amp;no-bg=true&amp;no-frame=true&amp;column=5&amp;margin-w=8">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-kannan.vercel.app/?username=OfMuriloSM&amp;theme=flat&amp;no-bg=true&amp;no-frame=true&amp;column=5&amp;margin-w=8">
+    <img alt="GitHub profile trophies" src="https://github-profile-trophy-kannan.vercel.app/?username=OfMuriloSM&amp;theme=onedark&amp;no-bg=true&amp;no-frame=true&amp;column=5&amp;margin-w=8" width="100%">
   </picture>
 </p>
 
