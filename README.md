@@ -141,17 +141,17 @@ My work combines software engineering with experimental research, from multi-obj
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-kannan.vercel.app/?username=OfMuriloSM&amp;theme=onedark&amp;no-bg=true&amp;no-frame=true&amp;column=5&amp;margin-w=8">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-kannan.vercel.app/?username=OfMuriloSM&amp;theme=flat&amp;no-bg=true&amp;no-frame=true&amp;column=5&amp;margin-w=8">
-    <img alt="GitHub profile trophies" src="https://github-profile-trophy-kannan.vercel.app/?username=OfMuriloSM&amp;theme=onedark&amp;no-bg=true&amp;no-frame=true&amp;column=5&amp;margin-w=8" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/analytics/milestones-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/analytics/milestones-light.svg">
+    <img alt="Public GitHub milestones: 4 original projects, 4 primary languages and 2 forks received. Verified 2026-11-28." src="assets/analytics/milestones-dark.svg" width="100%">
   </picture>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=OfMuriloSM&amp;label=Profile%20views&amp;color=71717a&amp;style=flat-square" alt="Profile views counter">
+  <img src="https://komarev.com/ghpvc/?username=OfMuriloSM&amp;label=Profile%20views&amp;color=71717a&amp;style=flat-square" alt="Profile views counter" width="150">
 </p>
 
-<sub>Language statistics reflect repository code, not proficiency. Profile views are an approximate image-request counter, not unique visitors.</sub>
+<sub>Language statistics reflect repository code, not proficiency. Public milestones are a dated snapshot of original public projects. Profile views are an approximate image-request counter, not unique visitors.</sub>
 
 ---
 
