@@ -21,42 +21,48 @@ My work combines software engineering with experimental research, from multi-obj
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Multi-Object Tracking Research</h3>
-      <p><sub>Computer Vision · Research · Research</sub></p>
+      <h3><img src="assets/icons/multi-object-tracking-research.svg" alt="" width="25" height="25"> Multi-Object Tracking Research</h3>
+      <p><sub>Computer Vision · Research</sub></p>
+      <p><img src="assets/badges/status-research.svg" alt="Research" height="25"></p>
       <p>Comparative evaluation of multi-object tracking methods.</p>
       <p>Public documentation pending</p>
     </td>
     <td width="50%" valign="top">
-      <h3>SDN Traffic Research</h3>
-      <p><sub>Computer Networks · Research · Research</sub></p>
+      <h3><img src="assets/icons/sdn-traffic-research.svg" alt="" width="25" height="25"> SDN Traffic Research</h3>
+      <p><sub>Computer Networks · Research</sub></p>
+      <p><img src="assets/badges/status-research.svg" alt="Research" height="25"></p>
       <p>Machine learning for network traffic classification.</p>
       <p>Public documentation pending</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>PSR-Tracker</h3>
-      <p><sub>Computer Vision · Experimental · Alpha</sub></p>
+      <h3><img src="assets/icons/psr-tracker.svg" alt="" width="25" height="25"> PSR-Tracker</h3>
+      <p><sub>Computer Vision · Experimental</sub></p>
+      <p><img src="assets/badges/status-alpha.svg" alt="Alpha" height="25"></p>
       <p>Experimental multi-object tracking method based on radial spatial relationships and motion.</p>
       <p><a href="https://github.com/OfMuriloSM/PSR-Tracker">View repository</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>Satomi</h3>
-      <p><sub>Artificial Intelligence · Software · Alpha</sub></p>
+      <h3><img src="assets/icons/satomi.svg" alt="" width="25" height="25"> Satomi</h3>
+      <p><sub>Artificial Intelligence · Software</sub></p>
+      <p><img src="assets/badges/status-alpha.svg" alt="Alpha" height="25"></p>
       <p>Modular, local-first personal AI assistant.</p>
       <p>Public showcase pending</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>SSTPDF</h3>
-      <p><sub>Scientific Tools · Software · Beta</sub></p>
+      <h3><img src="assets/icons/sstpdf.svg" alt="" width="25" height="25"> SSTPDF</h3>
+      <p><sub>Scientific Tools · Software</sub></p>
+      <p><img src="assets/badges/status-beta.svg" alt="Beta" height="25"></p>
       <p>Scientific document translation tool with a focus on layout preservation.</p>
       <p>Public showcase pending</p>
     </td>
     <td width="50%" valign="top">
-      <h3>PUFO</h3>
-      <p><sub>Windows · Software · Alpha</sub></p>
+      <h3><img src="assets/icons/pufo.svg" alt="" width="25" height="25"> PUFO</h3>
+      <p><sub>Windows · Software</sub></p>
+      <p><img src="assets/badges/status-alpha.svg" alt="Alpha" height="25"></p>
       <p>Modular desktop overlay inspired by the Dynamic Island interaction model.</p>
       <p><a href="https://github.com/OfMuriloSM/PUFO">View repository</a></p>
     </td>
@@ -66,30 +72,86 @@ My work combines software engineering with experimental research, from multi-obj
 ---
 
 ## Technology Stack
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+
+### Languages
+
+<p>
+  <img src="assets/badges/python.svg" alt="Python" height="32">
+  <img src="assets/badges/csharp.svg" alt="C#" height="32">
+  <img src="assets/badges/java.svg" alt="Java" height="32">
+  <img src="assets/badges/typescript.svg" alt="TypeScript" height="32">
+  <img src="assets/badges/javascript.svg" alt="JavaScript" height="32">
+  <img src="assets/badges/c.svg" alt="C" height="32">
+</p>
+
+### Frameworks & AI
+
+<p>
+  <img src="assets/badges/dotnet.svg" alt=".NET" height="32">
+  <img src="assets/badges/wpf.svg" alt="WPF" height="32">
+  <img src="assets/badges/react.svg" alt="React" height="32">
+  <img src="assets/badges/spring-boot.svg" alt="Spring Boot" height="32">
+  <img src="assets/badges/opencv.svg" alt="OpenCV" height="32">
+  <img src="assets/badges/pytorch.svg" alt="PyTorch" height="32">
+</p>
+
+### Tools & Data
+
+<p>
+  <img src="assets/badges/git.svg" alt="Git" height="32">
+  <img src="assets/badges/github.svg" alt="GitHub" height="32">
+  <img src="assets/badges/postgresql.svg" alt="PostgreSQL" height="32">
+  <img src="assets/badges/mysql.svg" alt="MySQL" height="32">
+  <img src="assets/badges/vite.svg" alt="Vite" height="32">
+  <img src="assets/badges/trackeval.svg" alt="TrackEval" height="32">
 </p>
 
 ---
 
 ## GitHub Analytics
-<div align="center">
-  <img src="https://github-readme-stats-six-azure-48.vercel.app/api?username=OfMuriloSM&show_icons=true&theme=dark&title_color=8B0000&icon_color=8B0000&text_color=FFFFFF&bg_color=000000&count_private=true&include_all_commits=true" height="180"/><br>
-<img src="https://github-readme-stats-six-azure-48.vercel.app/api/top-langs/?username=OfMuriloSM&layout=compact&theme=dark&title_color=8B0000&text_color=FFFFFF&bg_color=000000&count_private=true" height="180"/>
-</div>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-azure-48.vercel.app/api?username=OfMuriloSM&amp;show_icons=true&amp;title_color=E4E4E7&amp;icon_color=A1A1AA&amp;text_color=E4E4E7&amp;bg_color=09090B&amp;border_color=3F3F46&amp;count_private=true&amp;include_all_commits=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-azure-48.vercel.app/api?username=OfMuriloSM&amp;show_icons=true&amp;title_color=171717&amp;icon_color=555555&amp;text_color=171717&amp;bg_color=FAFAFA&amp;border_color=D4D4D8&amp;count_private=true&amp;include_all_commits=true">
+    <img alt="GitHub statistics" src="https://github-readme-stats-six-azure-48.vercel.app/api?username=OfMuriloSM&amp;show_icons=true&amp;title_color=E4E4E7&amp;icon_color=A1A1AA&amp;text_color=E4E4E7&amp;bg_color=09090B&amp;border_color=3F3F46&amp;count_private=true&amp;include_all_commits=true" width="49%">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-azure-48.vercel.app/api/top-langs/?username=OfMuriloSM&amp;layout=compact&amp;title_color=E4E4E7&amp;text_color=E4E4E7&amp;bg_color=09090B&amp;border_color=3F3F46">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-azure-48.vercel.app/api/top-langs/?username=OfMuriloSM&amp;layout=compact&amp;title_color=171717&amp;text_color=171717&amp;bg_color=FAFAFA&amp;border_color=D4D4D8">
+    <img alt="Top languages by repository code size" src="https://github-readme-stats-six-azure-48.vercel.app/api/top-langs/?username=OfMuriloSM&amp;layout=compact&amp;title_color=E4E4E7&amp;text_color=E4E4E7&amp;bg_color=09090B&amp;border_color=3F3F46" width="49%">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=OfMuriloSM&amp;background=09090B&amp;border=3F3F46&amp;stroke=3F3F46&amp;ring=A1A1AA&amp;fire=E4E4E7&amp;currStreakNum=E4E4E7&amp;sideNums=E4E4E7&amp;currStreakLabel=A1A1AA&amp;sideLabels=A1A1AA&amp;dates=A1A1AA">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=OfMuriloSM&amp;background=FAFAFA&amp;border=D4D4D8&amp;stroke=D4D4D8&amp;ring=555555&amp;fire=171717&amp;currStreakNum=171717&amp;sideNums=171717&amp;currStreakLabel=555555&amp;sideLabels=555555&amp;dates=555555">
+    <img alt="GitHub contribution streak" src="https://streak-stats.demolab.com/?user=OfMuriloSM&amp;background=09090B&amp;border=3F3F46&amp;stroke=3F3F46&amp;ring=A1A1AA&amp;fire=E4E4E7&amp;currStreakNum=E4E4E7&amp;sideNums=E4E4E7&amp;currStreakLabel=A1A1AA&amp;sideLabels=A1A1AA&amp;dates=A1A1AA" width="100%">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=OfMuriloSM&amp;bg_color=09090B&amp;color=E4E4E7&amp;line=A1A1AA&amp;point=E4E4E7&amp;custom_title=Contribution%20Activity&amp;hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=OfMuriloSM&amp;bg_color=FAFAFA&amp;color=171717&amp;line=555555&amp;point=171717&amp;custom_title=Contribution%20Activity&amp;hide_border=true">
+    <img alt="GitHub contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=OfMuriloSM&amp;bg_color=09090B&amp;color=E4E4E7&amp;line=A1A1AA&amp;point=E4E4E7&amp;custom_title=Contribution%20Activity&amp;hide_border=true" width="100%">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=OfMuriloSM&amp;theme=onedark&amp;no-bg=true&amp;no-frame=true&amp;column=5&amp;margin-w=8">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=OfMuriloSM&amp;theme=flat&amp;no-bg=true&amp;no-frame=true&amp;column=5&amp;margin-w=8">
+    <img alt="GitHub profile trophies" src="https://github-profile-trophy.vercel.app/?username=OfMuriloSM&amp;theme=onedark&amp;no-bg=true&amp;no-frame=true&amp;column=5&amp;margin-w=8" width="100%">
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=OfMuriloSM&amp;label=Profile%20views&amp;color=71717a&amp;style=flat-square" alt="Profile views counter">
+</p>
+
+<sub>Language statistics reflect repository code, not proficiency. Profile views are an approximate image-request counter, not unique visitors.</sub>
 
 ---
 
