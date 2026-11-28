@@ -129,6 +129,18 @@ My work combines software engineering with experimental research, from multi-obj
   <img alt="Top languages by repository code size" src="https://github-readme-stats-six-azure-48.vercel.app/api/top-langs/?username=OfMuriloSM&amp;layout=compact&amp;title_color=171717&amp;text_color=171717&amp;bg_color=FAFAFA&amp;border_color=D4D4D8&amp;card_width=400#gh-light-mode-only" width="49%">
 </p>
 
+<details>
+<summary>Monochrome language breakdown — public original projects</summary>
+
+<p align="center">
+  <img src="assets/analytics/languages-dark.svg#gh-dark-mode-only" alt="Public original project language distribution" width="70%">
+  <img src="assets/analytics/languages-light.svg#gh-light-mode-only" alt="Public original project language distribution" width="70%">
+</p>
+
+<sub>The monochrome chart uses public original project code sizes after its first successful refresh. The existing Top Languages service remains available above.</sub>
+
+</details>
+
 <p align="center">
   <img alt="GitHub contribution streak" src="https://streak-stats.demolab.com/?user=OfMuriloSM&amp;background=09090B&amp;border=3F3F46&amp;stroke=3F3F46&amp;ring=A1A1AA&amp;fire=E4E4E7&amp;currStreakNum=E4E4E7&amp;sideNums=E4E4E7&amp;currStreakLabel=A1A1AA&amp;sideLabels=A1A1AA&amp;dates=A1A1AA#gh-dark-mode-only" width="90%">
   <img alt="GitHub contribution streak" src="https://streak-stats.demolab.com/?user=OfMuriloSM&amp;background=FAFAFA&amp;border=D4D4D8&amp;stroke=D4D4D8&amp;ring=555555&amp;fire=171717&amp;currStreakNum=171717&amp;sideNums=171717&amp;currStreakLabel=555555&amp;sideLabels=555555&amp;dates=555555#gh-light-mode-only" width="90%">
@@ -140,15 +152,15 @@ My work combines software engineering with experimental research, from multi-obj
 </p>
 
 <p align="center">
-  <img alt="Public GitHub milestones: 4 original projects, 4 primary languages and 2 forks received. Verified 2026-11-28." src="assets/analytics/milestones-dark.svg#gh-dark-mode-only" width="100%">
-  <img alt="Public GitHub milestones: 4 original projects, 4 primary languages and 2 forks received. Verified 2026-11-28." src="assets/analytics/milestones-light.svg#gh-light-mode-only" width="100%">
+  <img alt="Public GitHub milestones: original projects, primary languages and forks received." src="assets/analytics/milestones-dark.svg#gh-dark-mode-only" width="100%">
+  <img alt="Public GitHub milestones: original projects, primary languages and forks received." src="assets/analytics/milestones-light.svg#gh-light-mode-only" width="100%">
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=OfMuriloSM&amp;label=Profile%20views&amp;color=71717a&amp;style=flat" alt="Approximate profile views" height="26">
 </p>
 
-<sub>Language statistics reflect repository code, not proficiency. Public milestones are a dated snapshot of original public projects. Profile views are an approximate image-request counter, not unique visitors.</sub>
+<sub>Language statistics reflect repository code, not proficiency. Public milestones are a dated snapshot of original public projects, refreshed by the portfolio workflow. Profile views are an approximate image-request counter, not unique visitors.</sub>
 
 ---
 
