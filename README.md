@@ -111,40 +111,25 @@ My work combines software engineering with experimental research, from multi-obj
 ## GitHub Analytics
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-azure-48.vercel.app/api?username=OfMuriloSM&amp;show_icons=true&amp;title_color=E4E4E7&amp;icon_color=A1A1AA&amp;text_color=E4E4E7&amp;bg_color=09090B&amp;border_color=3F3F46&amp;count_private=true&amp;include_all_commits=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-azure-48.vercel.app/api?username=OfMuriloSM&amp;show_icons=true&amp;title_color=171717&amp;icon_color=555555&amp;text_color=171717&amp;bg_color=FAFAFA&amp;border_color=D4D4D8&amp;count_private=true&amp;include_all_commits=true">
-    <img alt="GitHub statistics" src="https://github-readme-stats-six-azure-48.vercel.app/api?username=OfMuriloSM&amp;show_icons=true&amp;title_color=E4E4E7&amp;icon_color=A1A1AA&amp;text_color=E4E4E7&amp;bg_color=09090B&amp;border_color=3F3F46&amp;count_private=true&amp;include_all_commits=true" width="49%">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-azure-48.vercel.app/api/top-langs/?username=OfMuriloSM&amp;layout=compact&amp;title_color=E4E4E7&amp;text_color=E4E4E7&amp;bg_color=09090B&amp;border_color=3F3F46">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-azure-48.vercel.app/api/top-langs/?username=OfMuriloSM&amp;layout=compact&amp;title_color=171717&amp;text_color=171717&amp;bg_color=FAFAFA&amp;border_color=D4D4D8">
-    <img alt="Top languages by repository code size" src="https://github-readme-stats-six-azure-48.vercel.app/api/top-langs/?username=OfMuriloSM&amp;layout=compact&amp;title_color=E4E4E7&amp;text_color=E4E4E7&amp;bg_color=09090B&amp;border_color=3F3F46" width="49%">
-  </picture>
+  <img alt="GitHub statistics" src="https://github-readme-stats-six-azure-48.vercel.app/api?username=OfMuriloSM&amp;show_icons=true&amp;title_color=E4E4E7&amp;icon_color=A1A1AA&amp;text_color=E4E4E7&amp;bg_color=09090B&amp;border_color=3F3F46&amp;count_private=true&amp;include_all_commits=true#gh-dark-mode-only" width="49%">
+  <img alt="GitHub statistics" src="https://github-readme-stats-six-azure-48.vercel.app/api?username=OfMuriloSM&amp;show_icons=true&amp;title_color=171717&amp;icon_color=555555&amp;text_color=171717&amp;bg_color=FAFAFA&amp;border_color=D4D4D8&amp;count_private=true&amp;include_all_commits=true#gh-light-mode-only" width="49%">
+  <img alt="Top languages by repository code size" src="https://github-readme-stats-six-azure-48.vercel.app/api/top-langs/?username=OfMuriloSM&amp;layout=compact&amp;title_color=E4E4E7&amp;text_color=E4E4E7&amp;bg_color=09090B&amp;border_color=3F3F46#gh-dark-mode-only" width="49%">
+  <img alt="Top languages by repository code size" src="https://github-readme-stats-six-azure-48.vercel.app/api/top-langs/?username=OfMuriloSM&amp;layout=compact&amp;title_color=171717&amp;text_color=171717&amp;bg_color=FAFAFA&amp;border_color=D4D4D8#gh-light-mode-only" width="49%">
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=OfMuriloSM&amp;background=09090B&amp;border=3F3F46&amp;stroke=3F3F46&amp;ring=A1A1AA&amp;fire=E4E4E7&amp;currStreakNum=E4E4E7&amp;sideNums=E4E4E7&amp;currStreakLabel=A1A1AA&amp;sideLabels=A1A1AA&amp;dates=A1A1AA">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=OfMuriloSM&amp;background=FAFAFA&amp;border=D4D4D8&amp;stroke=D4D4D8&amp;ring=555555&amp;fire=171717&amp;currStreakNum=171717&amp;sideNums=171717&amp;currStreakLabel=555555&amp;sideLabels=555555&amp;dates=555555">
-    <img alt="GitHub contribution streak" src="https://streak-stats.demolab.com/?user=OfMuriloSM&amp;background=09090B&amp;border=3F3F46&amp;stroke=3F3F46&amp;ring=A1A1AA&amp;fire=E4E4E7&amp;currStreakNum=E4E4E7&amp;sideNums=E4E4E7&amp;currStreakLabel=A1A1AA&amp;sideLabels=A1A1AA&amp;dates=A1A1AA" width="100%">
-  </picture>
+  <img alt="GitHub contribution streak" src="https://streak-stats.demolab.com/?user=OfMuriloSM&amp;background=09090B&amp;border=3F3F46&amp;stroke=3F3F46&amp;ring=A1A1AA&amp;fire=E4E4E7&amp;currStreakNum=E4E4E7&amp;sideNums=E4E4E7&amp;currStreakLabel=A1A1AA&amp;sideLabels=A1A1AA&amp;dates=A1A1AA#gh-dark-mode-only" width="100%">
+  <img alt="GitHub contribution streak" src="https://streak-stats.demolab.com/?user=OfMuriloSM&amp;background=FAFAFA&amp;border=D4D4D8&amp;stroke=D4D4D8&amp;ring=555555&amp;fire=171717&amp;currStreakNum=171717&amp;sideNums=171717&amp;currStreakLabel=555555&amp;sideLabels=555555&amp;dates=555555#gh-light-mode-only" width="100%">
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=OfMuriloSM&amp;bg_color=09090B&amp;color=E4E4E7&amp;line=A1A1AA&amp;point=E4E4E7&amp;custom_title=Contribution%20Activity&amp;hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=OfMuriloSM&amp;bg_color=FAFAFA&amp;color=171717&amp;line=555555&amp;point=171717&amp;custom_title=Contribution%20Activity&amp;hide_border=true">
-    <img alt="GitHub contribution activity graph" src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=OfMuriloSM&amp;bg_color=09090B&amp;color=E4E4E7&amp;line=A1A1AA&amp;point=E4E4E7&amp;custom_title=Contribution%20Activity&amp;hide_border=true" width="100%">
-  </picture>
+  <img alt="GitHub contribution activity graph" src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=OfMuriloSM&amp;bg_color=09090B&amp;color=E4E4E7&amp;line=A1A1AA&amp;point=E4E4E7&amp;custom_title=Contribution%20Activity&amp;hide_border=true#gh-dark-mode-only" width="100%">
+  <img alt="GitHub contribution activity graph" src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=OfMuriloSM&amp;bg_color=FAFAFA&amp;color=171717&amp;line=555555&amp;point=171717&amp;custom_title=Contribution%20Activity&amp;hide_border=true#gh-light-mode-only" width="100%">
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/analytics/milestones-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/analytics/milestones-light.svg">
-    <img alt="Public GitHub milestones: 4 original projects, 4 primary languages and 2 forks received. Verified 2026-11-28." src="assets/analytics/milestones-dark.svg" width="100%">
-  </picture>
+  <img alt="Public GitHub milestones: 4 original projects, 4 primary languages and 2 forks received. Verified 2026-11-28." src="assets/analytics/milestones-dark.svg#gh-dark-mode-only" width="100%">
+  <img alt="Public GitHub milestones: 4 original projects, 4 primary languages and 2 forks received. Verified 2026-11-28." src="assets/analytics/milestones-light.svg#gh-light-mode-only" width="100%">
 </p>
 
 <p align="center">
@@ -168,8 +153,5 @@ My work combines software engineering with experimental research, from multi-obj
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OfMuriloSM/OfMuriloSM/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OfMuriloSM/OfMuriloSM/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/OfMuriloSM/OfMuriloSM/output/pacman-contribution-graph.svg">
-</picture>
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/OfMuriloSM/OfMuriloSM/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/OfMuriloSM/OfMuriloSM/output/pacman-contribution-graph.svg#gh-light-mode-only">
