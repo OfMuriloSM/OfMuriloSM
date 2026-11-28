@@ -156,12 +156,12 @@ My work combines software engineering with experimental research, from multi-obj
 ---
 
 ## Contact & Links
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/ofmurilosm"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=8B0000"/></a>
-  <a href="https://www.instagram.com/of.murilo"><img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=8B0000"/></a>
-  <a href="https://www.youtube.com/channel/UCD2dvmM3iObJBMH0uVowuSw"><img src="https://img.shields.io/badge/YouTube-111111?style=for-the-badge&logo=youtube&logoColor=8B0000"/></a>
-  <a href="https://x.com/OfMuriloSM"><img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=8B0000"/></a>
-  <a href="https://www.twitch.tv/mukir00"><img src="https://img.shields.io/badge/Twitch-111111?style=for-the-badge&logo=twitch&logoColor=8B0000"/></a>
+  <a href="https://www.linkedin.com/in/ofmurilosm"><img src="assets/badges/contact-linkedin.svg" alt="LinkedIn" height="32"></a>
+  <a href="https://github.com/OfMuriloSM"><img src="assets/badges/contact-github.svg" alt="GitHub" height="32"></a>
+  <a href="https://www.instagram.com/of.murilo"><img src="assets/badges/contact-instagram.svg" alt="Instagram" height="32"></a>
+  <a href="https://x.com/OfMuriloSM"><img src="assets/badges/contact-x.svg" alt="X" height="32"></a>
 </p>
 
 ---
