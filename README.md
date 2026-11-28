@@ -159,9 +159,11 @@ My work combines software engineering with experimental research, from multi-obj
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ofmurilosm"><img src="assets/badges/contact-linkedin.svg" alt="LinkedIn" height="32"></a>
-  <a href="https://github.com/OfMuriloSM"><img src="assets/badges/contact-github.svg" alt="GitHub" height="32"></a>
+  <a href="https://github.com/sturmwerk-studio"><img src="assets/badges/contact-github.svg" alt="GitHub — Sturmwerk Studio" height="32"></a>
   <a href="https://www.instagram.com/of.murilo"><img src="assets/badges/contact-instagram.svg" alt="Instagram" height="32"></a>
   <a href="https://x.com/OfMuriloSM"><img src="assets/badges/contact-x.svg" alt="X" height="32"></a>
+  <a href="https://www.youtube.com/channel/UCD2dvmM3iObJBMH0uVowuSw"><img src="assets/badges/contact-youtube.svg" alt="YouTube" height="32"></a>
+  <a href="https://www.twitch.tv/mukir00"><img src="assets/badges/contact-twitch.svg" alt="Twitch" height="32"></a>
 </p>
 
 ---
